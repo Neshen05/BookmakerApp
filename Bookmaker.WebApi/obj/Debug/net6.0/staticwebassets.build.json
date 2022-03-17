@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lu+fomefO3TK3+jXSSbHdM0PeN1DrJ4YawxMJVAuqW4=",
+  "Source": "Bookmaker.WebApi",
+  "BasePath": "_content/Bookmaker.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
